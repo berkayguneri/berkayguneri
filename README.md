@@ -35,20 +35,22 @@
 </div>
 
 ###
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkayguneri&show_icons=true&locale=en&layout=compact" alt="berkayguneri" /></p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=berkayguneri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=berkayguneri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkayguneri&" alt="berkayguneri" /></p>
+
+<br clear="both">
+
 
 <div align="left">
-  <img height="400" src="https://www.joberty.com/blog/content/images/size/w1272/2023/09/software-engineer.png"  />
+  <img height="300" src="https://www.joberty.com/blog/content/images/size/w1272/2023/09/software-engineer.png"  />
 </div>
 
 ###
 
-
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/berkayguneri/berkayguneri/output/snake.svg" alt="Snake animation" />
 
