@@ -45,7 +45,7 @@
 
 
 <div align="left">
-  <img height="300" src="https://www.joberty.com/blog/content/images/size/w1272/2023/09/software-engineer.png"  />
+  <img height="250" src="https://www.joberty.com/blog/content/images/size/w1272/2023/09/software-engineer.png"  />
 </div>
 
 ###
