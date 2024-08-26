@@ -2,7 +2,7 @@
 
 ###
 
-- 🌱 I’m currently learning **mobile development**
+- 🌱 I’m currently learning **mobile development and Java**
 
 - 💬 Ask me about **Unity**
 
