@@ -2,7 +2,7 @@
 
 ###
 
-- 🌱 I’m currently learning **mobile development,MySQL and php**
+- 🌱 I’m currently learning *Goal-Oriented Action Planning**
 
 - 💬 Ask me about **Unity**
 
